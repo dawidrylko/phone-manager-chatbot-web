@@ -1,7 +1,7 @@
 {
   "name": "phone-manager-chatbot-web",
   "version": "1.0.0",
-  "description": "Chatbot web app is a part of [Phone Manager Chatbot](https://github.com/dawidrylko/phone-manager-chatbot).",
+  "description": "Chatbot web app.",
   "main": "server.js",
   "repository": {
     "type": "git",

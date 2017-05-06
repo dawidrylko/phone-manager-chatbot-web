@@ -1,0 +1,22 @@
+{
+  "name": "phone-manager-chatbot-web",
+  "version": "1.0.0",
+  "description": "Chatbot web app is a part of [Phone Manager Chatbot](https://github.com/dawidrylko/phone-manager-chatbot).",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawidrylko/phone-manager-chatbot-web.git"
+  },
+  "keywords": [
+    "chatbot",
+    "wit",
+    "phone",
+    "manager"
+  ],
+  "author": "www.dawidrylko.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dawidrylko/phone-manager-chatbot-web/issues"
+  },
+  "homepage": "https://github.com/dawidrylko/phone-manager-chatbot-web#readme"
+}

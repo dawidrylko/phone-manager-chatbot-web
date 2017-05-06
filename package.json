@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/dawidrylko/phone-manager-chatbot-web/issues"
   },
-  "homepage": "https://github.com/dawidrylko/phone-manager-chatbot-web#readme"
+  "homepage": "https://github.com/dawidrylko/phone-manager-chatbot-web#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
